@@ -9,6 +9,6 @@
 
 
 ----
-### [01_bike_sharing_demansion][p]
+### [01_bikesharingdemansion][bk]
 
-[p]:https://github.com/meucham11/Kaggle/blob/master/01_bikesharingdemansion/01_bike_sharing_demand.ipynb
+[bk]:https://github.com/meucham11/Kaggle/blob/master/01_bikesharingdemansion/01_bike_sharing_demand.ipynb
